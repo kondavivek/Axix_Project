@@ -14,6 +14,7 @@ public class TestBI {
 		/////////////////////////////////////
 		System.out.println("hello);
 		System.out.println("haiiii);
+		System.out.println("Byeee);
 		
 		/*Mobile one = factory.getBean("iphone1", Mobile.class);
 		System.out.println(one);
