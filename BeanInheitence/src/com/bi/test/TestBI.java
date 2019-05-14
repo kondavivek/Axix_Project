@@ -12,6 +12,7 @@ public class TestBI {
 		ClassPathResource res = new ClassPathResource("com/bi/cfg/Beans.xml");
 		BeanFactory factory = new XmlBeanFactory(res);
 		/////////////////////////////////////
+		System.out.println("hello);
 		/*Mobile one = factory.getBean("iphone1", Mobile.class);
 		System.out.println(one);
 		System.out.println("================");
