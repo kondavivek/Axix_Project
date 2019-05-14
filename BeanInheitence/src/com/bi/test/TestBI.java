@@ -13,6 +13,8 @@ public class TestBI {
 		BeanFactory factory = new XmlBeanFactory(res);
 		/////////////////////////////////////
 		System.out.println("hello);
+		System.out.println("haiiii);
+		
 		/*Mobile one = factory.getBean("iphone1", Mobile.class);
 		System.out.println(one);
 		System.out.println("================");
